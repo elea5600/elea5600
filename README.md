@@ -1,13 +1,8 @@
 Hi, I'm Elea!<br/>
 
-👩‍💻 I'm a passionate Data Scientist / Bioinformatician with experience in Java, Python, and Machine Learning.<br/>
+I'm a passionate Data Scientist / Bioinformatician with experience in R, C++, Python and Machine Learning.<br/>
 💕 My interests span from designing efficient backend systems to exploring the cutting edge of AI-driven solutions.<br/>
-🚀 I enjoy bridging the gap between data and real-world impact, especially in healthcare and science.<br/>
 
-💡 On my GitHub, you will find:<br/>
-- 🌐 Full-Stack Web Applications (Java, Spring Boot, React)<br/>
-- 🤖 Machine Learning Projects (Deep Learning, Computer Vision, Chatbots)<br/>
-and many more random projects...<br/>
 
 🌱 I’m always eager to learn and collaborate on new projects. Feel free to explore my repositories and connect with me!<br/>
 
